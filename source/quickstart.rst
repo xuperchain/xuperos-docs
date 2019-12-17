@@ -30,7 +30,7 @@
 
 使用平台功能前，需完成实名认证。
 
-认证步骤
+**认证步骤**
 
 **方式一**
 
@@ -75,7 +75,8 @@
 购买流程
 --------
 
-操作步骤：
+**操作步骤：**
+
 1. 进入超级链控制台，点击个人中心->充值按钮，进入 `Xuper充值页 <https://xchain.baidu.com/n/console#/finance/wallet/recharge>`_
 
 .. image:: images/recharge.png

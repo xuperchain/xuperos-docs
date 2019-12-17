@@ -59,7 +59,7 @@
 ------------
 
 1. 在「安装成功」的列表中，找到要调用的目标合约，点击「调用」；
-2.  按照弹框指引，可前往  SDK使用说明与下载地址
+2.  按照弹框指引，可前往  `SDK使用说明与下载地址 <https://github.com/xuperchain/xuper-sdk-go/wiki/xuper-sdk-go-%E4%B8%AD%E6%96%87%E7%89%88>`_
 
 .. image:: images/SDK.png
     :align: center
