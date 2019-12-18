@@ -9,7 +9,7 @@ XuperOS文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: 产品介绍
+    :caption: 超级链-开放网络介绍
 
     introduction.rst
 
