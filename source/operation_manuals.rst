@@ -34,7 +34,7 @@
 
 2.	进入新页面，按要求填写、上传合约信息，填写完成后点击「提交」。合约代码编译请参考 `部署wasm合约 <https://xuperchain.readthedocs.io/zh/latest/advanced_usage/create_contracts.html#wasm>`_
 
-.. image:: images/contract.png
+.. image:: images/contract01.png
     :align: center
     :width: 600px
 
