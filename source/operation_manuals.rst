@@ -50,7 +50,7 @@
     :align: center
     :width: 600px
 
-5.	执行成功后，页面显示安装合约预计消耗的Xuper值。点击「安装合约」将合约上链，上链过程需要等待10S左右。
+5.	执行成功后，页面显示安装合约预计消耗的余额。点击「安装合约」将合约上链，上链过程需要等待10S左右。
 
 .. image:: images/deploy_contract.png
     :align: center
