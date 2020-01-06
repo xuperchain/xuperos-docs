@@ -92,6 +92,10 @@ html_context = {
     ],
 }
 
+html_js_files = [
+    'stat.js',
+]
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
