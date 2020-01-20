@@ -65,7 +65,7 @@
 
 以counte合约为例，展示资源消耗规则。（公测期间按活动价收费，活动结束后恢复标准价）
 
-.. image:: images/1.png
+.. image:: images/rule.png
     :align: center
     :width: 500px
 
